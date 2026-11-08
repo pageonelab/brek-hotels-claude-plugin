@@ -1,0 +1,12 @@
+{
+  "name": "brek-hotels",
+  "version": "0.1.1",
+  "description": "Search hotels by destination and check a named hotel’s room prices for the traveler’s exact dates and guests, comparing public prices and Brek wholesale selling totals when available.",
+  "author": {
+    "name": "PageOne Lab",
+    "url": "https://www.brek.com"
+  },
+  "homepage": "https://www.brek.com",
+  "license": "MIT",
+  "repository": "https://github.com/pageonelab/brek-hotels-claude-plugin"
+}
