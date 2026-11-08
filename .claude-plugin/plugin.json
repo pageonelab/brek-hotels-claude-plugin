@@ -1,6 +1,6 @@
 {
   "name": "brek-hotels",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Search hotels by destination and check a named hotel’s room prices for the traveler’s exact dates and guests, comparing public prices and Brek wholesale selling totals when available.",
   "author": {
     "name": "PageOne Lab",

@@ -29,6 +29,8 @@ The plugin consists only of Markdown instructions and JSON configuration. It con
 
 Research does not authorize the plugin to make a booking, pay, cancel a stay, or change account settings. Review and book on [Brek.com](https://www.brek.com). Connector information and support are available at [Brek Help](https://www.brek.com/help/connectors) or support@reply.brek.com.
 
+The [plugin privacy notice](PRIVACY.md) describes the trip inputs, destinations, and retention boundaries.
+
 ## License
 
 The plugin's instruction and configuration files are released under the MIT License. This license covers this repository's files; Brek's hosted services retain their own terms.
